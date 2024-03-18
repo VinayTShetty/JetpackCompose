@@ -1,0 +1,8 @@
+Compose will work on the state object.
+To get the updatge value.
+we need to call the compose function again.
+
+For that we can use Observables.
+
+Remember will work on saving the sate.
+RememberSavable will work where there is a orientiation change of the phone.
