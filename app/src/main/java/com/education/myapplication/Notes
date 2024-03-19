@@ -1,0 +1,2 @@
+Add navigation Component Depedency.
+Change CompileSDK and TargetSDK to 34 for Navigation component in jetpackcompose.
