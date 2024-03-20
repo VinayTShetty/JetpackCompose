@@ -1,0 +1,3 @@
+When passing data from one screen to another screen.
+Frist we have get the data and pass the data to the NavGraph.
+From Navgraph we need to pass it the corresponding screen.
